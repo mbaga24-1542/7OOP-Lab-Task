@@ -20,9 +20,8 @@ Hello! I am **Baga, Mike Frances B.**, a college student with a passion for soft
 - **Java**
 
 ## 📚 PROJECT LINKS
-- **Midterm Lab Task 1**: [Getting started with Python](#)  <!-- Add actual link to project if hosted on GitHub -->
-- **Midterm Paired Task 1**: [Link to Paired Task Project](#)
-
+- **Midterm Lab Task 1**: (https://docs.google.com/document/d/1ypFq2FQBPYy3nAK0iD6ttqYEqbDciHhZ/edit?usp=sharing&ouid=113424247055258513476&rtpof=true&sd=true)
+- **Midterm Paired Task 1**:(https://docs.google.com/document/d/133jqBnbH8DAgn0lRO0ysTYUt3PspoJqA/edit?usp=sharing&ouid=113424247055258513476&rtpof=true&sd=true)
 ## 😎 FUN FACTS ABOUT ME
 - I’m lazy sometimes and have a tendency to procrastinate... but I always get things done!
 
