@@ -20,8 +20,15 @@ Hello! I am **Baga, Mike Frances B.**, a college student with a passion for soft
 - **Java**
 
 ## 📚 PROJECT LINKS
-- **Midterm Lab Task 1**: (https://docs.google.com/document/d/1ypFq2FQBPYy3nAK0iD6ttqYEqbDciHhZ/edit?usp=sharing&ouid=113424247055258513476&rtpof=true&sd=true)
-- **Midterm Paired Task 1**:(https://docs.google.com/document/d/133jqBnbH8DAgn0lRO0ysTYUt3PspoJqA/edit?usp=sharing&ouid=113424247055258513476&rtpof=true&sd=true)
+-[Project 1: Mid Paired Task](link-to-project)
+-[Project 2: Github Portfolio](https://github.com/mbaga24-1542/7OOP-Lab-Task))
+-[Project 3: Lab task 1](()
+-[Project 4: Lab task 2]()
+-[Project 5: Midterm Lab Task 3. Using List Collections ](https://docs.google.com/document/d/1UL2GaMri0VzUF674udQ3ukuAWiqFKwD6dtQzyolgzvQ/edit?usp=sharing)
+-[Project 6: Midterm Lab Task 4. Using Dictionary Collections ](https://docs.google.com/document/d/1_TeDm7ODZFDFyfb9nea9xS0KfH_ZnWTtld0EzLsejg0/edit?usp=sharing)
+-[Project 7: Midterm Lab Task 5. Creating and Instantiating Classes](https://docs.google.com/document/d/1EXh63eS4eQuXWHe8_ojNMHpx9H05xKlFl105yLzCX_g/edit?usp=sharing)
+-[Project 8: Midterm Lab Task 6. Overloaded Consturctors](https://docs.google.com/document/d/1Hn0SWJFQ2Xb54twXxIKJQUnYD1Cbnd9LEDiUr3YVkQg/edit?usp=sharing)
+-[Practice  task using collections](https://classroom.google.com/c/NzkxODY4MzY2MTAx/a/ODA3MTQ1NjA3Nzg2/details,https://classroom.google.com/c/NzkxODY4MzY2MTAx/a/ODA3MTQ1NjA3Nzg2/details)
 ## 😎 FUN FACTS ABOUT ME
 - I’m lazy sometimes and have a tendency to procrastinate... but I always get things done!
 
